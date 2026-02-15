@@ -12,7 +12,7 @@ Dieses Repository enthält Übungsnotebooks und entsprechende Lösungen für das
 
 - **Klonen über Git**:
   ```sh
-  git clone <REPO_URL>
+  git clone [<REPO_URL>](https://github.com/MTelschow/Python-Repetitorium.git)
   ```
 - **ZIP-Datei herunterladen**: Nutze die Option "Download ZIP" auf der Git-Hosting-Seite.
 
